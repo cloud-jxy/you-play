@@ -63,7 +63,6 @@ case $1 in
         echo -e "video.sh play 学园奶爸 3 vlc --format=TD_H265"
         echo -e "--format=TD_H265,4k,HD,TD,HD_H265,SD"
         echo -e "video.sh play 学园奶爸 3 browser  #如果这个视频无法播放,可以直接浏览器打开视频"
-        echo 暂时只支持非Windows系统
         echo .
         echo .
         echo .
